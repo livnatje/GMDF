@@ -21,7 +21,7 @@ Annotations:
 - n = number of datasets
 - m = number of contexts (e.g, cancer types)
 
-Input:
+**Input:**
 - E: list of n gene expression matrices, one per dataset/condition.
 - a: n x m matrix denoting the value of m annotations (i.e., contexts) in n datasets provided in E (see examples below).**
 - k: Initial estimate of the number of shared programs.
